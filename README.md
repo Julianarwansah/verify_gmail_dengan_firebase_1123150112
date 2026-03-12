@@ -32,3 +32,13 @@ Enable Email/Password
 
 Berhasil Terbuka
 ![berhasilmenambahkanemailpassword7](image/berhasilmenambahkanemailpassword7.png)
+
+---
+
+Enable Google Auth
+![enablegoogle7](image/enablegoogle7.png)
+
+---
+
+Berhasil Tambah Google
+![berhasilmenambahkangoogle8](image/berhasilmenambahkangoogle8.png)
