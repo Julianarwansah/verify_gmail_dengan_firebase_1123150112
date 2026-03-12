@@ -51,4 +51,15 @@ Buka Postman
 ---
 
 Berhasil Registrasi Email
-![berhasilregistrasiemaildanpassword10](image/berhasilregistrasiemaildanpassword10.png)
+![berhasilregistrasiemaildanpassword10](image/berhasilregistrasiemaildanpassword10.png)
+
+---
+
+Verif Email Postman
+![verifemailpostman11](image/verifemailpostman11.png)
+
+---
+
+Verif Berhasil Masuk Gmail
+![verifberhasilmasukkegmail12](image/verifberhasilmasukkegmail12.png)
+
