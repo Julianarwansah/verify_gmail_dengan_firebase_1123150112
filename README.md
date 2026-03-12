@@ -42,3 +42,13 @@ Enable Google Auth
 
 Berhasil Tambah Google
 ![berhasilmenambahkangoogle8](image/berhasilmenambahkangoogle8.png)
+
+---
+
+Buka Postman
+![bukaapkpostman9](image/bukaapkpostman9.png)
+
+---
+
+Berhasil Registrasi Email
+![berhasilregistrasiemaildanpassword10](image/berhasilregistrasiemaildanpassword10.png)
