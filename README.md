@@ -66,7 +66,7 @@
 ---
 
 14. Verif Berhasil
-![verifberhasil13](image/verifberhasil13.png)
+![verifberhasil13](image/verifberhasil133.png)
 
 ---
 
@@ -77,4 +77,4 @@
 
 16. Cek Verif Email
 ![berhasilcekverifemail15](image/berhasilcekverifemail15.png)
-
+
